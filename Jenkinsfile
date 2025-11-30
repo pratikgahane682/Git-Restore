@@ -1,0 +1,3 @@
+node{
+    def appDir
+}
